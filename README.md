@@ -1,4 +1,22 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=FFC0CB&height=100&text=SJ&fontSize=90&animation=fadeIn&fontAlignY=50&fontAlign=80)
+<div align="center">
+  <h1> Hello ! </h1>
+
+[sangjung0](https://github.com/sangjung0)
+
+  <br>
+
+<a href="https://github.com/sangjung0/sangjung0/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=sangjung0/sangjung0" />
+</a>
+
+  <br>
+  <br>
+
+  언젠가 메인 화면을 꾸밀 수 있기를 ~
+</div>
+<br/>
+<br/>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sangjung0&show_icons=true&theme=tokyonight)
 
