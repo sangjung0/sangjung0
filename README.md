@@ -5,7 +5,6 @@
 Yeungnam University
 280 Daehak-ro, Daedong, Gyeongsan-si, Gyeongsangbuk-do, South Korea  
 [sangjung245@gmail.com](mailto:sangjung245@gmail.com) & [sangjung@yu.ac.kr](mailto:sangjung@yu.ac.kr)  
-[GitHub Profile](https://sangjung0.github.io)  
 [Gitblog](https://sangjung0.github.io/)
 
 ---
