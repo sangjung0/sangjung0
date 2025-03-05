@@ -89,4 +89,4 @@ Department of Computer Engineering
 - Arduino, Raspberry Pi  
 
 ### AI Models
-- MtCNN  
+- MtCNN, R-CNN, Masked R-CNN, YoLo
