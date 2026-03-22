@@ -2,7 +2,7 @@
 # Sang-Jeong Kim
 
 **M.S. Student in Computer Engineering**  
-Yeungnam University, Gyeongsan, South Korea
+Yeungnam University, Gyeongsan, South Korea  
 [sangjung245@gmail.com](mailto:sangjung245@gmail.com) · [sangjung@yu.ac.kr](mailto:sangjung@yu.ac.kr)  
 [Gitblog](https://sangjung0.github.io/) · [Google Scholar](https://scholar.google.com/citations?hl=en&user=yZsotBUAAAAJ&view_op=list_works&gmla=AEk_c1skBI3Mx8Irur7Ykc5TRsv12pEXQrQYZtfVEZZgJdScLuKG0cIF0CA3Re4ViY8Qw-Gm3uj6nWCNOhQp982p)
 
