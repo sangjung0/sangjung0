@@ -44,17 +44,7 @@ Mar. 2020 ~ Feb. 2026
 ---
 
 ## Projects
-- [**Poll Anything**, Yeungnam University, Korea / Backend Software Development (Python, FastAPI, Docker, Cloudflare, Google Cloud, MySQL) (Dec. 2025)](https://github.com/sangjung0/poll-anything)
-- [**SilRok AI**, Yeungnam University, Korea / Backend Software Development (Python, FastAPI, AI, Docker) (Mar. 2025 ~ Dec. 2025)](https://github.com/sangjung0/SilRok_AI)
-- **Microservice**, Personal Project, Korea / Full Stack Development (Python, JavaScript, Java, FastAPI, AI, Spring Boot, React & MySQL) (Feb. 2025 ~ Present)  
-- [**Agora metaverse**, Yeungnam University, Korea / Client Software Development (JavaScript, React) (Sep. 2024 ~ Dec. 2024)](https://github.com/Sangjung-mingi-jian-minju-sj-lets-go/Web-Client)
-- [**Wish Track**, Yeungnam University, Korea / Software Development (Kotlin & Android) (Oct. 2024 ~ Dec. 2024)](https://github.com/sangjung0/wishtrack)  
-- [**Scheduler**, Yeungnam University, Korea / Software Development (Java) (May. 2024 ~ Jun. 2024)](https://github.com/sangjung0/Scheduler)  
-- [**ChatGPT Prompt Service**, Yeungnam University, Korea / Full Stack Development (JavaScript, Java, React, Spring Boot & ChatGPT API) (Jan. 2024 ~ Jul. 2024)](https://github.com/sangjung0/ChatGPT_Prompt_Templates)  
-- [**Image Classifier**, Yeungnam University, Korea / Software Development (Python, PyQt & MTCNN) (Jan. 2024 ~ Jul. 2024)](https://github.com/sangjung0/Image-classifier/tree/Restructure)  
-- [**ELF SNS**, Personal Project, Korea / Full Stack Development (JavaScript, React & Express) (Aug. 2023 ~ Dec. 2023)](https://github.com/sangjung0/elf_sns)[(**server**)](https://github.com/sangjung0/elf_sns-server)  
-- [**GFUP**, Personal Project, Korea / Full Stack Development (JavaScript, Java, React, Spring Boot & MySQL) (Jun. 2023 ~ Dec. 2023)](https://github.com/sangjung0/H_Alarm)[(**server**)](https://github.com/sangjung0/GFUP2)  
-- [**Fish Simulation**, Yeungnam University, Korea / Hardware Design, Circuit Design, Manufacturing & Software Development (JavaScript, Arduino & C) (May. 2023 ~ Jul. 2023)](https://github.com/sangjung0/MakeFishModel)  
+- [**dataset_loader**, Personal Project, Korea / Software Development (Python, Docker) (Apr. 2026)](https://github.com/sangjung0/dataset_loader)
 
 ---
 
